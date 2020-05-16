@@ -1,4 +1,5 @@
-##Topics to Learn in Linux for DevOps (Mixed with interview questions)
+Topics to Learn in Linux for DevOps (Mixed with interview questions)
+==============
 
 1. Basics of Linux commands (Eg: cp,mv,rm...etc)
 2. Volume management (lvm commands)
