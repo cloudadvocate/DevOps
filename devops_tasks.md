@@ -29,3 +29,4 @@
 | Cloud - AWS Interface | Python | Cloud Components | Boto Framework for automating/managing cloud resources like ec2,s3
 | Cloud - GCP | Python | Cloud Components | GCP SDK to automated/manage resources
 
+Credits: Thanks to my friends and colleagues :). Please contribute to this and help others.
