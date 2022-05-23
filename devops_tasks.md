@@ -1,6 +1,6 @@
 # DevOps Common Scripting Tasks
 
-| TASK  | SCRIPT TYPE | TYPE | DESCRIPTION | LEARNING SOURCE/URL
+| TASK  | SCRIPT TYPE | TYPE | DESCRIPTION | LEARNING SOURCES
 | ------------- | ------------- | ------------- | ------- |------- |
 | Build Management | Shell | Maven/Gradle/Npm Build Script | Custom Shell script to build, package application using mavne/gradle/npm or any packaging tool
 | Deployment | Shell/Ansible | Application Deployment | Shell script or Ansible playbook for web/ui deployment into web servers
